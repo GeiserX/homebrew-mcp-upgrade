@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/GeiserX/homebrew-mcp-upgrade/main/docs/images/banner.svg" alt="homebrew-mcp-upgrade banner" width="900"/></p>
+<p align="center"><img src="docs/images/banner.svg" alt="homebrew-mcp-upgrade banner" width="900"/></p>
 
 <h1 align="center">homebrew-mcp-upgrade</h1>
 
